@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ameersensei
-- 👀 I’m interested in AI/ML,PYTHON,ROS
-- 🌱 I’m currently learning PYTHON,ANN
-- 💞️ I’m looking to collaborate on ROS<ML
+-  Hi, I’m @ameersensei
+-  I’m interested in AI/ML,PYTHON,ROS
+-  I’m currently learning PYTHON,ANN
+-  I’m looking to collaborate on ROS<ML
 - 📫 How to reach me kkhanlb@gmaqil.com
 
 <!---
